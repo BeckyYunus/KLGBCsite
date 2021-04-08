@@ -1,7 +1,0 @@
-Flask
-Flask-Cors
-html2text
-PyYAML
-Jinja2
-Werkzeug
-gunicorn
